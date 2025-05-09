@@ -9,7 +9,7 @@ This dashboard is designed to allow stakeholders to easily highlight the importa
 Recovery Rate by Gender: Compares differences in recovery outcomes between male and female patients.
 Cancer Effect on Gender: Shows the impact of cancer cases on different genders
 Smoking and Recovering: Compares recovery rates between smokers and non-smokers.
-Treatment Types vs Recovery: Evaluates recovery success rates across different treatment types (e.g, surgery, chemo, radiation).
+Treatment Types vs. Recovery: Evaluates recovery success rates across different treatment types (e.g, surgery, chemo, radiation).
 Cancer and Smoking: Analyse the relationship between smoking and cancer occurrence.
 Cancer Stages vs Recovery: Shows the relationship between stages of cancer and the likelihood of recovery. 
 Outcome on Early Treatment: Compares patient recovery outcomes based on how early treatment began. 
